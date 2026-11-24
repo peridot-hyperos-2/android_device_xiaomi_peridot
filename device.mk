@@ -305,6 +305,7 @@ PRODUCT_PACKAGES += \
     CarrierConfigOverlayPeridot \
     CustomSettingsOverlayPeridot \
     FrameworkOverlayPeridot \
+    GameBarOverlayPeridot \
     NfcOverlayPeridot \
     SecureElementOverlayPeridot \
     SettingsOverlayPeridot \
